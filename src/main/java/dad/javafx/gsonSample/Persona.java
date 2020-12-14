@@ -1,4 +1,4 @@
-package gsonSample;
+package dad.javafx.gsonSample;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

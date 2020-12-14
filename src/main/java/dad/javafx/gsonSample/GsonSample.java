@@ -1,4 +1,4 @@
-package gsonSample;
+package dad.javafx.gsonSample;
 
 import java.util.Scanner;
 
